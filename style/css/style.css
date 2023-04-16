@@ -1,0 +1,28 @@
+Body{
+    background-color: rgb(208, 171, 243);
+}
+
+
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: end;
+
+}
+
+.carouselImg{
+    height: 500px;
+}
+
+.box{
+    border: 1px solid  rgb(241, 59, 150);
+}
+
+.btnCenter{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.imageH{
+    height: 450px;
+}
+
